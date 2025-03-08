@@ -8,49 +8,52 @@ This is a fork from the original by [Peter Lamar](https://github.com/peterlamar/
 
 Since these examples are several years old they are possibly, even likely, in Vue 2 so I be updating them as I go through them.
 
+I have also renamed folders, multiplying by 10, from original names while I create new content. As to more easily put new chapters in between existing ones.
+
 ## Introduction
 
 These examples can be accessed by opening the index.html file within your browser. The related javascript and css files are referenced by this file when appropriate. This is a good way to test javascript and Vue snippets found on the web.
 
-1. [Hello World](01-helloworld)
-2. [Instance](02-instance)
-3. [Vbind](03-vbind)
-4. [Computed](04-computed)
-5. [Watcher](05-watcher)
-6. [Class](06-class)
-7. [Events](07-events)
-8. [Vmodel](08-vmodel)
-9. [Component](09-component)
-10. [ComponentMessage](10-componentmessage)
-11. [ComponentDynamic](11-componentdynamic)
-12. [Async](12-async)
+
+1. [Hello World](10-helloworld)
+2. [Instance](20-instance)
+3. [Vbind](30-bind)
+4. [Computed](40-computed)
+5. [Watcher](50-watcher)
+6. [Class](60-class)
+7. [Events](70-events)
+8. [Vmodel](80-vmodel)
+9. [Component](90-component)
+10. [ComponentMessage](100-componentmessage)
+11. [ComponentDynamic](110-componentdynamic)
+12. [Async](120-async)
 
 ## Charts and Graphs
 
 These are interesting if you wish to jumpstart into data visualization. 
 
-1. [Chart](13-chart)
-2. [Vuechart](15-vuechart)
-3. [Vuebars](15-vuebars)
+1. [Chart](130-chart)
+2. [Vuechart](150-vuechart)
+3. [Vuebars](150-vuebars)
 
 ## Vue CLI
 **Note by Francisco Reyes: VUE cli is no longer the preferred method to setup a Vue application so will be updating this section to relect that as I get to this later chapters**
 
 These examples start with the [VUE cli](https://cli.vuejs.org/) and represent the beginnings of the single page app pattern. This pattern differs from the index.html file in that javascript files are separated out into .vue files which is easier to maintain in larger projects. 
 
-1. [LocalProxy](16-localproxy)
-2. [AGGrid](17-aggrid)
-3. [tailwind](18-tailwind)
-4. [svgdots](19-svgdots)
-5. [d3connectdots](20-d3connectdots)
-6. [firebasechat](21-firebase-chat)
+1. [LocalProxy](160-localproxy)
+2. [AGGrid](170-aggrid)
+3. [tailwind](180-tailwind)
+4. [svgdots](190-svgdots)
+5. [d3connectdots](200-d3connectdots)
+6. [firebasechat](210-firebase-chat)
 
 ## Nuxt
 
 The [Nuxt](https://nuxtjs.org/) project is an attempt to improve on the Vue cli by providing some common settings as defaults in the generated project.
 
-1. [HelloNuxt](22-hellonuxt)
-2. [todo-app](23-todo-app)
+1. [HelloNuxt](220-hellonuxt)
+2. [todo-app](230-todo-app)
 
 ## Contributing
 
