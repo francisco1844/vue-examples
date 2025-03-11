@@ -8,7 +8,7 @@ This is a fork from the original by [Peter Lamar](https://github.com/peterlamar/
 
 Since these examples are several years old they are possibly, even likely, in Vue 2 so I be updating them as I go through them.
 
-I have also renamed folders, multiplying by 10, from original names while I create new content. As to more easily put new chapters in between existing ones.
+I have also renamed folders, multiplying by 10, from original names. That will make it easier to add new chapters in between existing ones.
 
 ## Introduction
 
